@@ -7,4 +7,4 @@ This repository is not the original repository for this tool. Here are some link
 * :x: The Source Code (not available)
 * :x: The Original Tool - MATCON (not available)
 
-This repository was constructed by [Gaurav Shah](tbd3), [Amrita Das](tbd4), [Prajakta Gokhale],  [Ira Ramtirth], and [Vrushti Shah] under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
+This repository was constructed by [Gaurav Shah], [Amrita Das], [Prajakta Gokhale],  [Ira Ramtirth], and [Vrushti Shah] under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
